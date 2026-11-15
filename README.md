@@ -4,6 +4,12 @@
 
 A quantitative finance project exploring numerical methods for derivative pricing and optimal stopping problems, combining stochastic simulation, analytical pricing, Monte Carlo methods and deep learning.
 
+--- 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://deep-optimal-stopping.streamlit.app/)
+
+**Live application:** https://deep-optimal-stopping.streamlit.app/
+
 ## Project Structure
 
 ```text

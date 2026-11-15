@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test and cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Data and generated files
+data/
+*.csv
+*.parquet
+*.pkl
+
+# Environment variables
+.env
